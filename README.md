@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="./your-photo.jpg" alt="Tamilselvam H" width="150" style="border-radius: 50%;"/>
-</p>
 
 <h1 align="center">Hi 👋 I'm Tamilselvam H</h1>
 <h3 align="center">Java Full Stack Developer | BCA Graduate | Chennai, Tamil Nadu</h3>
